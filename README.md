@@ -364,18 +364,24 @@ Proyecto desarrollado por estudiantes del programa:
 
 # 📊 Estado actual
 
-> 🟡 **En planificación**
+> 🟢 **En desarrollo funcional**
 
-Actualmente el proyecto se encuentra en la etapa de:
+Estado actualizado: **7 de noviembre de 2026**.
 
-* ✅ Definición del producto.
-* ✅ Definición inicial de épicas.
-* ✅ Definición inicial de features.
-* ✅ Creación de historias de usuario.
-* ✅ Definición de criterios de aceptación.
-* 🔄 Construcción del Product Backlog.
-* ⏳ Planificación del Sprint 1.
-* ⏳ Inicio del desarrollo.
+Actualmente Stashly ya cuenta con trabajo funcional en:
+
+* ✅ Acceso sin registro.
+* ✅ Búsqueda unificada y detalle multimedia.
+* ✅ Reproducción compatible.
+* ✅ Traer contenido mediante URL.
+* ✅ Gestión de fuentes/providers.
+* ✅ Descarga/offline y cola.
+* ✅ Mi Stash y reproducción local.
+* ✅ Mini-player.
+* 🔄 Filtros, fallback de fuentes, continuidad de reproducción y responsive final.
+* ⏳ Organización avanzada de Mi Stash y contenido destacado.
+
+La implementación Angular + ASP.NET Core se está desarrollando fuera de este repositorio documental y debe sincronizarse con GitHub para que el código fuente y esta documentación representen el mismo estado del producto.
 
 ---
 
